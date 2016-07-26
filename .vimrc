@@ -54,7 +54,7 @@ syntax on
 set showcmd
 
 " Show file name in window title
-set title
+" set title
 
 " show line numbers
 set number
