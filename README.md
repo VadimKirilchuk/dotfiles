@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Dot files are rule the world!
+Dot files rule the world!
